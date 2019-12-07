@@ -1,0 +1,3 @@
+2019-12-06 16:32:01,019 INFO [root] [test_ihrm_emp_parametrized.py(test03_modify_emp:65)] - 修改员工返回的数据是: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1202868279571730432'}}
+2019-12-06 16:32:01,223 INFO [root] [test_ihrm_emp_parametrized.py(test03_modify_emp:76)] - --------查询数据库中的员工id为1202868279571730432的username是:大嘴兽1
+2019-12-06 16:32:01,316 INFO [root] [test_ihrm_emp_parametrized.py(test04_del_emp:88)] - 删除员工返回的数据是: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}

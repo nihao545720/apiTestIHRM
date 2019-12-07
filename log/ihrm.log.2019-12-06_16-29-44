@@ -1,0 +1,5 @@
+2019-12-06 16:29:44,083 INFO [root] [test_loginihrm.py(test08_less_parmas:105)] - 登录接口返回的数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-06 16:29:44,192 INFO [root] [test_ihrm_emp_parametrized.py(test01_emp:34)] - 添加员工接口返回的数据为: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2019-12-06 16:29:44,270 INFO [root] [test_ihrm_emp_parametrized.py(test02_query_emp:53)] - 查询员工接口返回的数据为: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2019-12-06 16:29:44,364 INFO [root] [test_ihrm_emp_parametrized.py(test03_modify_emp:65)] - 修改员工返回的数据是: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2019-12-06 16:29:44,457 INFO [root] [test_ihrm_emp_parametrized.py(test04_del_emp:88)] - 删除员工返回的数据是: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
